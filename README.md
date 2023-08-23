@@ -1,0 +1,1 @@
+# parallax_effect_using_reanimated_2
